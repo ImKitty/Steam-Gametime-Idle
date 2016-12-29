@@ -1,2 +1,3 @@
-# Steam-Gametime-Idler
-Idle Steamgames for free!
+# Steam Gametime Idle (Windows Only)
+
+Kitty Gametime idle is based on idlemasters technology, made as a hobby project to idle gametimes.
